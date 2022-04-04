@@ -1,0 +1,5 @@
+name: stenv
+dependencies:
+  - python=3.9   
+  - streamlit=1.8.1
+  - pipenv==2022.1.8
